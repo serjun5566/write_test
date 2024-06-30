@@ -1,0 +1,8 @@
+
+<a href="http://localhost/write_test/unit_count.php?unit=1">路標選擇</a><br>
+<a href="http://localhost/write_test/unit_count.php?unit=2">路標是非</a><br>
+<a href="http://localhost/write_test/unit_count.php?unit=3">法規選擇</a><br>
+<a href="http://localhost/write_test/unit_count.php?unit=4">法規是非</a><br>
+<a href="http://localhost/write_test/total_test.php">模擬考試</a><br>
+
+
